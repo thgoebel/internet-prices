@@ -29,4 +29,4 @@ python3 plot.py
 
 ## License
 
-This repo is published under the [MIT License][LICENSE].
+This repo is published under the [MIT License](LICENSE).
